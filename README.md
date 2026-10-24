@@ -1,2 +1,0 @@
-# simulation
-큥이
